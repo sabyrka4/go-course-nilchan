@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("Aboba Roblox Hello Motto")
-	fmt.Print("Aboba Roblox Hello Motto")
-	fmt.Print("Aboba Roblox Hello Motto")
+	score := 0
+
+	fmt.Println("score:", score)
 }
