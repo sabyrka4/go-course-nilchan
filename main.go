@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	score := 0
+	score := 111
 
 	fmt.Println("score:", score)
 }
